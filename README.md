@@ -1,8 +1,5 @@
 # viztool
 
-### GitHub Pages ###
-
-https://bignova.github.io/viztool/
 
 ### Overview
 
